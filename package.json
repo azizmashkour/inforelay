@@ -1,0 +1,53 @@
+{
+  "name": "Inforelay",
+  "author": "Mashkour Abdel Aziz, Abdoul Hamid Coulibaly, Oriane Zohou",
+  "licence": "MIT",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^24.0.0",
+    "@ckeditor/ckeditor5-react": "^3.0.0",
+    "@emotion/react": "^11.1.4",
+    "@emotion/styled": "^11.0.0",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.11.2",
+    "Dante2": "^0.5.0-rc26",
+    "chart.js": "^2.9.4",
+    "clsx": "latest",
+    "draft-js": "^0.11.7",
+    "emotion-theming": "^11.0.0",
+    "i18next": "^19.8.4",
+    "prismjs": "^1.23.0",
+    "react": "latest",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-data-table-component": "^6.11.6",
+    "react-dom": "latest",
+    "react-hook-form": "^6.14.1",
+    "react-hook-form-input": "^1.1.10",
+    "react-i18next": "^11.8.5",
+    "react-icons": "^4.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "latest",
+    "react-select": "^3.2.0",
+    "styled-components": "^5.2.1",
+    "tawkto-react": "^1.0.11"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
