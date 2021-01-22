@@ -1,0 +1,91 @@
+{
+  "home": {
+    "hello": "Hello",
+    "welcome": "Welcome",
+    "relay_of_information": "Relay of information related to Covid",
+    "covid_19": "Search and share Covid-19 information with your friends and family to save lives...",
+    "title": "Title",
+    "description": "Description",
+    "badge": "Badge",
+    "author": "Author",
+    "publish": "Publish a new information",
+    "fake_news": "Fake news",
+    "good_news": "Good news",
+    "tap_a_word": "tap a word...",
+    "loading": "Loading...",
+    "retrieve_the_articles": "Sorry, we are unable to retrieve the articles. Please try again later.",
+    "no_articles_match": "No articles match your search."
+  },
+  "details": {
+    "share": "Share with friends and family",
+    "copied": "Copied",
+    "back": "Back",
+    "article_not_found": "Article not found",
+    "loading": "Loading...",
+    "retrieve_this_article": "Sorry, we are unable to retrieve this article. Please try again later.",
+    "fake_news": "Fake news",
+    "good_news": "Good news"
+  },
+  "dashboard": {
+    "sadly_message": "Sadly! there is no data to visualize yet.",
+    "add_content": "Please add content...",
+    "new_article": "New article",
+    "dashboard": "Dashboard Analytics",
+    "logout": "Logout",
+    "fake_news": "Fake news",
+    "good_news": "Good news",
+    "menu": {
+      "analytics": "Analytics",
+      "requests": "Requests",
+      "profile": "Profile",
+      "notifications": "Notifications",
+      "language": "Choose your language"
+    },
+    "add_requests": "Please add requests...",
+    "new_request": "New request",
+    "requests_submitted": "Requests submitted"
+  },
+  "profile": {
+    "need_anything": "Need anything?",
+    "documentation": "Documentation",
+    "help_center": "Help center"
+  },
+  "notifications": {
+    "no_notifications": "Sadly! there is no notifications yet.",
+    "come_back_later": "Please come back later...",
+    "notifications": "Notifications"
+  },
+  "helpCenter": {
+    "help": "How can we help?",
+    "help_center": "Welcome to the Help Center, where you can find info to help you get started and familiarise yourself with Inforelay Global information, or get help with an issue.",
+    "inforelay_fees": "Inforelay is free",
+    "inforelay_info": "Inforelay has made international COVID-19 information relaying as simple as ordering a taxi or a pizza using an app. With Inforelay you can share COVID-19 related informations from anywhere you are with all the world, 24/7. All your need to know is the information article's name, source and date. No Need To Sign up through our website, just load our content editor, write article, and start sharing around the globe at lightning speed. We automatically add your article to the waiting queue in orther to verify before sharing definitively, and give you the power with our clear and user-friendly app.",
+    "inforelay_easy": "Inforelay is easy",
+    "charges_fees": "Fortunately goodbye to high fees, commissions and hidden charges. Inforelay is totally free of charge. However your generous contribution will help us keep growing.",
+    "inforelay_fast": "Inforelay is fast",
+    "world_news": "Our state-of-the-art processing platform is connected to the global covid-19 information network, so we can track all informations and keep you informed on the status of every single information.",
+    "team_contact": "Talk to our team",
+    "contact_us": "Contact us",
+    "happy_team": "Inforelay Support team is happy to help you via online chat or email."
+  },
+  "documentation": {
+    "creating_article": "Creating an article",
+    "create_an_article": "How to create an article",
+    "navigate_to": "Navigate to",
+    "publish_news": "Click on the 'PUBLISH A NEW INFORMATION' button",
+    "text_editor": "Our rich text editor",
+    "customize_content": "You can customize your content with the WYSIWYG editor.",
+    "format_of_text": "Click the editor icons to format your text.",
+    "attach_file": "You have the possibility to attach media (links, images) to your step.",
+    "sharing_article": "Sharing an article",
+    "share_an_article": "How to share an article",
+    "click_on_article": "Click on the article you want to share to move to the details page",
+    "share_link": "At the bottom side of the article image, click on any link to share it.",
+    "copy _url": "Also you can just copy the 'PUBLIC URL', on the copy icon.",
+    "searching_article_url": "Searching an article",
+    "search_an_article_url": "How to search an article?",
+    "type_keywords": "Type any keywords into the search box",
+    "filter_articles": "You can also filter the articles by: 'title', 'description', 'badge', and 'author' properties",
+    "support_team": "Inforelay Support team is happy to help you via online chat or email."
+  }
+}
