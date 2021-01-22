@@ -1,0 +1,90 @@
+{
+  "home": {
+    "hello": "Salut",
+    "welcome": "Bienvenue",
+    "chooseLang": "Choisir votre langue",
+    "relay_of_information": "Relai d'informations relatives au Covid",
+    "covid_19": "Recherchez et partagez des informations sur le Covid-19 avec vos amis et votre famille pour sauver des vies ...",
+    "title": "Title",
+    "description": "Description",
+    "badge": "Badge",
+    "author": "Auteur",
+    "publish": "Publier un nouvel article",
+    "fake_news": "Fausse information",
+    "good_news": "Information juste",
+    "tap_a_word": "Saisir un mot clé...",
+    "loading": "Chargement...",
+    "retrieve_the_articles": "Désolé, nous ne parvenons pas à récupérer les articles. Veuillez réessayer plus tard svp.",
+    "no_articles_match": "Aucun article ne correspond à votre recherche."
+  },
+  "details": {
+    "share": "Partagez avec vos amis et votre famille",
+    "copied": "Copié",
+    "back": "Retour",
+    "article_not_found": "Article not found",
+    "loading": "Chargement...",
+    "retrieve_this_article": "Désolé, nous ne parvenons pas à récupérer cet article. Veuillez réessayer plus tard svp.",
+    "fake_news": "Fausse information",
+    "good_news": "Information juste"
+  },
+  "dashboard": {
+    "sadly_message": "Désolé! il n'y a pas encore de données à visualiser.",
+    "add_content": "Veuillez ajouter des contenus...",
+    "new_article": "Nouvel article",
+    "dashboard": "Tableau de bord",
+    "logout": "Déconnexion",
+    "menu": {
+      "analytics": "Analytiques",
+      "requests": "Requêtes",
+      "profile": "Profile",
+      "notifications": "Notifications",
+      "language": "Choisir votre langue"
+    },
+    "add_requests": "Veuillez ajouter des demandes ...",
+    "new_request": "Nouvelle requête",
+    "requests_submitted": "Demandes soumises"
+  },
+  "profile": {
+    "need_anything": "Besoin de quelque chose?",
+    "documentation": "Documentation",
+    "help_center": "Centre d'aide"
+  },
+  "notifications": {
+    "no_notifications": "Malheureusement, il n'y a pas encore de notifications.",
+    "come_back_later": "Merci de revenir plus tard...",
+    "notifications": "Notifications"
+  },
+  "helpCenter": {
+    "help": "Comment pouvons nous aider?",
+    "help_center": "Bienvenue dans le centre d'aide, où vous pouvez trouver des informations pour vous aider à démarrer et à vous familiariser avec les informations d'Inforelay Global, ou obtenir de l'aide en cas de problème.",
+    "inforelay_fees": "Inforelay est gratuit",
+    "inforelay_info": "Inforelay a rendu le relai  des informations liées au COVID-19 aussi simple que de commander un taxi ou une pizza à l'aide d'une application. Avec Inforelay, vous pouvez partager des informations liées au COVID-19 où que vous soyez avec le monde entier, 24h /24 et 7/7jr. Tout ce que vous devez savoir est le nom, la source et la date de l'article d'information. Pas besoin de vous inscrire via notre site Web, il vous suffit de charger notre éditeur de contenu, d'écrire un article et de commencer à partager dans le monde entier à une vitesse fulgurante. Nous ajoutons automatiquement votre article à la file d'attente pour vérifier avant de le partager définitivement. Nous vous donnerons le pouvoir avec notre application claire et conviviale.",
+    "inforelay_easy": "Inforelay est facile",
+    "charges_fees": " Adieu les frais élevés, les commissions et les frais cachés. Inforelay est gratuit. Cependant, votre généreuse contribution nous aidera à continuer à grandir.",
+    "inforelay_fast": "Inforelay est rapide",
+    "world_news": "Notre plate-forme de traitement est connectée au réseau mondial d'informations covid-19, afin que nous puissions suivre toutes les informations et vous tenir informés de l'état de chaque information.",
+    "team_contact": "Parlez nous",
+    "contact_us": "Nous contacter",
+    "happy_team": "L'équipe d'assistance Inforelay est heureuse de vous aider via le chat en ligne ou par e-mail."
+  },
+  "documentation": {
+    "creation_of_article": "Création d'un article",
+    "create_an_article": "Comment créer un article ?",
+    "navigate_to": "Naviguer vers",
+    "publish_news": "Cliquez sur le bouton 'PUBLIER UNE NOUVELLE INFORMATION'",
+    "text_editor": "Notre éditeur de texte riche",
+    "customize_content": "Vous pouvez personnaliser votre contenu avec l'éditeur WYSIWYG.",
+    "format_of_text": "Cliquez sur les icônes de l'éditeur pour mettre en forme votre texte.",
+    "attach_file": "Vous avez la possibilité de joindre des médias (liens, images) à votre démarche.",
+    "sharing_article": "Partager un article",
+    "share_an_article": "Comment partager un article ?",
+    "click_on_article": "Cliquez sur l'article que vous souhaitez partager pour accéder à la page de détails",
+    "share_link": "En bas de l'image de l'article, cliquez sur n'importe quel lien pour le partager.",
+    "copy _url": "Vous pouvez également copier simplement l'URL PUBLIQUE', sur l'icône de copie.",
+    "searching_article_url": "Rechercher un article",
+    "search_an_article_url": "Comment rechercher un article?",
+    "type_keywords": "Tapez des mots clés dans le champ de recherche",
+    "filter_articles": "Vous pouvez également filtrer les articles par: propriétés 'titre', 'description', 'badge' et 'auteur'",
+    "support_team": "L'équipe d'assistance d'Inforelay est heureuse de vous aider par chat en ligne ou par e-mail."
+  }
+}
