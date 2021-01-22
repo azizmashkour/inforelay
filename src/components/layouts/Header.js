@@ -5,7 +5,6 @@ import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 import { navigation } from '../../constants/configs';
 import { Link } from "react-router-dom";
-import AppLogo from '../../img/Group.png';
 
 const Header =(props)=> {
   return (
@@ -14,7 +13,7 @@ const Header =(props)=> {
         <Toolbar>
           <Typography color="inherit" noWrap>
             <Link to={navigation.home} style={{textDecoration: 'none', color: '#fff'}}>
-              <img src={AppLogo} />
+              <h2 className="primary">Inforelay</h2>
             </Link>
           </Typography>
         </Toolbar>

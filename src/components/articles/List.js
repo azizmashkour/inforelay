@@ -120,7 +120,7 @@ const List =(props)=> {
                   ))}
                 </FormGroup>
               </FormControl>
-              <input type="submit" value="Search"/>
+              {/*<input type="submit" value="Search"/>*/}
             </form>
             <div className={classes.addInfo}>
               <Link to='/rich-editor' className={classes.editorBtn}>
