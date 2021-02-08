@@ -17,7 +17,7 @@ const transform = (input) => {
 // in many cases it may not be possible to control the format of the input
 // so this algorithm is the efficient one
 // here we take in consideration that the input is not empty before calling this func
-const transform(input) => {
+const transform =(input) => {
   const result = input.reduce((elem, val) => {
     // where k represent k and, v the values(here our whole initial array: ["key1", 1, 2, 3, 4])
     // then we need tp remove the "key1" from the begening so we use slice() function
