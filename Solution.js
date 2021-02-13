@@ -5,7 +5,7 @@
     let min, max = arr[0];
     // we loop within the array
     // to retrieve respectively the max, the min and,
-    // the position of the best position to split the array
+    // the index of the best position to split the array
     for (let i = 1; i < arr.length; i++) {
       if (arr[i] > max) {
         max = arr[i];
@@ -16,6 +16,6 @@
       }
     }
     const maxDiff = Math.abs(max - min);
-    console.log(`| ${max} - ${min}| = ${maxDiff} splitted a ${k}`);
+    console.log(`| ${max} - ${min} | = ${maxDiff} splitted at ${k}`);
     return maxDiff;
   }
